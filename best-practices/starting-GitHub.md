@@ -66,6 +66,15 @@ Sometimes is hard to know how to start in GitHub since many people has different
 - Show what revision and author last modified each line of a file
 
 
+```
+ > git rebase
+```
+- Rebasing is the process of moving or combining a sequence of commits to a new base commit.
+- Rebasing is most useful and easily visualized in the context of a feature branching workflow.
+
+
+
+
 - **Commit early and often**
 
 - Git only takes full responsibility for your data when you commit. If you fail to commit and then do something poorly thought out, you can run into trouble. Additionally, having periodic checkpoints means that you can understand how you broke something.
