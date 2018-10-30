@@ -60,3 +60,7 @@
 - Bio: Estudiante en Ingeniería informática, trabajo como frontend y me gustan los perros.
 - Github: [noraprogramadoraoficial](https://github.com/noraprogramadoraoficial)
 
+
+#### Rosa Quintero
+- Bio: Extranjera a dónde quiera que voy con mi playera de la leyenda "Enque l@ puedo ayudar, amante de la tecnologia y del café"
+-Github: [rosaq](https://github.com/rosaq)
