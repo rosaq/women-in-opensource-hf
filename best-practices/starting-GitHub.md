@@ -56,3 +56,11 @@ Sometimes is hard to know how to start in GitHub since many people has different
   - Click **pull request**
 
 ### YOU ROCK in OPEN SOURCE :sunglasses: :octocat:
+
+
+* Other commands
+
+```
+ > git blame
+```
+- Show what revision and author last modified each line of a file
