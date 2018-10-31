@@ -72,7 +72,7 @@ Sometimes is hard to know how to start in GitHub since many people has different
 - Rebasing is the process of moving or combining a sequence of commits to a new base commit.
 - Rebasing is most useful and easily visualized in the context of a feature branching workflow.
 
-
+-  If you would prefer a clean, linear history free of unnecessary merge commits, you should reach for git rebase instead of git merge when integrating changes from another branch.
 
 
 - **Commit early and often**
